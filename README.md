@@ -3,6 +3,9 @@
 ## 👨‍💻 About Me
 I'm graduated in Mathematical Engineering with a specialization in Statistical Learning.
 
-### Matser Thesis: PAKMAN
+### Matser Thesis:
 - **[PAK-MAN: Optimal Cloud and HPC Systems Parallel Optimization via Bayesian Optimization and Machine Learning](https://github.com/baroneleonardo/PAKMAN)**  
   Developed and evaluated an algorithm integrating parallel Bayesian optimization and machine learning models. This project focuses on constrained optimization problems within HPC and cloud systems.
+
+### Other Projects
+For more of my work, feel free to explore the other repositories below.
